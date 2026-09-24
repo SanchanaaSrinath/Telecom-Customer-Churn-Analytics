@@ -90,3 +90,7 @@ Target: `Churn` (Yes / No).
 ## License
 
 MIT
+
+Dataset
+
+https://docs.google.com/spreadsheets/d/1vr6aRM84fabb-c6RDUAIJKt02c2TEcvBHVm5mKqKiYU/edit?gid=1965156557#gid=1965156557
